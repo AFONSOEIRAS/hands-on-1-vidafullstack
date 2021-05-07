@@ -1,0 +1,32 @@
+header {
+  //inicio section
+  section{
+    justify-content: space-between;
+    align-items: center;
+    //inicio nav
+  nav{
+    //inicio ul
+    ul{
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      //inicio li
+      li {
+        //inicio a
+        a{
+          padding: 0 15px;
+          color: $color-primaria;
+        }
+        //End a
+      }
+      //End li
+    }
+    //End ul
+  }
+  //End nav 
+  }
+  //End section
+
+  
+  
+}
